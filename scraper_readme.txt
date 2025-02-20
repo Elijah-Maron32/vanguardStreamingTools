@@ -1,0 +1,2 @@
+To use the scraper you need to download geckodriver by following the instructions here https://github.com/mozilla/geckodriver?tab=readme-ov-file
+you will also need to use your prefered python package manager to install selenium
